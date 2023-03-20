@@ -23,6 +23,9 @@ There are 5 files in the repository:
 - ball_tracking_final.py: program to track the ball and move towards it.
 - soccer_bot.py: program to track the ball and move towards it. Once it has caugth up with the ball, it will start moving towards a green circle (net).
 
+## Video
+https://youtu.be/mM8pa8IGtz4
+
 ## Credits
 
 Made by Matteo Giovanni
